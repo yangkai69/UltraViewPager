@@ -51,6 +51,7 @@ public class PagerActivity extends Activity implements AdapterView.OnItemSelecte
     private UltraViewPager ultraViewPager;
     private PagerAdapter adapter;
 
+    //ceshi
     private Spinner indicatorStyle;
     private Spinner indicatorGravityHor;
     private Spinner indicatorGravityVer;
